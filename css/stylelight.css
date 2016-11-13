@@ -75,6 +75,7 @@ p {
 	font-weight: 100;
 	font-family: 'AlteDIN', sans-serif;
 	letter-spacing: 0.5px;
+	text-align: justify;
 }
 
 b, strong {
