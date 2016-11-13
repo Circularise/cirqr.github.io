@@ -5858,8 +5858,8 @@ button.close {
 }
 .modal-dialog {
   position: relative;
-  width: auto;
-  margin: 10px;
+  width: 90%;
+  margin: 65px 5% auto 5%;
 }
 .modal-content {
   position: relative;
